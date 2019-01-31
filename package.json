@@ -1,5 +1,5 @@
 {
-  "name": "@neogrup/nc-combo",
+  "name": "@neogrup/nc-appconfig",
   "keywords": [
     "web-components",
     "polymer",
@@ -9,7 +9,7 @@
     "type": "git",
     "url": "https://github.com/NEOGRUP/nc-appconfig"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Component read appconfig.json and write it to localstorage",
   "main": "nc-appconfig.js",
   "dependencies": {
